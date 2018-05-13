@@ -1,7 +1,7 @@
 {
-  "name": "payment-contract-app",
+  "name": "cryptocurrency-chart-demo",
   "version": "1.0.0",
-  "description": "A foundational boilerplate for decentralized applications built with React, Redux, & Ethereum Smart Contracts",
+  "description": "",
   "scripts": {
     "clean": "rimraf dist",
     "build": "webpack --progress --verbose --colors --display-error-details --config config/webpack/common.config.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:katat/payment-contract-app.git"
+    "url": "git@github.com:katat/cryptocurrency-chart-demo.git"
   },
   "devDependencies": {
     "autoprefixer": "^6.6.1",
